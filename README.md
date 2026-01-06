@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @abhijithabhi01
-- 👀 I’m interested in MERN
-- 🌱 I’m currently learning React
+- 👀 I’m interested in New Things
+- 🌱 I’m currently learning AI
 - https://www.linkedin.com/in/abhijith-s-5138a724b
