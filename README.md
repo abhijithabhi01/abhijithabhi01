@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abhijith 👋</h1>
+<h1 align="center">Hi, I'm Abhijith Sreekumar👋</h1>
 <h3 align="center">Full-Stack Developer (MERN) @ Susima Smaart Solutions | Agentic AI Systems</h3>
 
 <p align="center">
@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://portfolio-iota-silk-xodoniha41.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abhijith-s-5138a724b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:iamabhijithabhi01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhijithsreekumar-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:iamabhi01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -65,7 +65,7 @@
 
 <p align="left">
   <a href="https://portfolio-iota-silk-xodoniha41.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/abhijith-s-5138a724b">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/abhijithsreekumar-dev">LinkedIn</a> •
   <a href="mailto:iamabhijithabhi01@gmail.com">Email</a>
 </p>
 
