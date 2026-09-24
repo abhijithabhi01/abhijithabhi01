@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Animated name banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhijith%20Sreekumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Agentic%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+MERN+apps+for+embedded+%26+IoT+systems;Designing+Agentic+AI+workflows+%26+LLM+pipelines;Full-Stack+Developer+%40+Susima+Smaart+Solutions;Turning+ideas+into+production-grade+products+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<!-- Social badges -->
 <a href="https://abhijithsreekumar.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000"/>
 </a>
@@ -25,16 +22,9 @@
   <img src="https://img.shields.io/badge/about.me-00A98F?style=for-the-badge&logo=aboutdotme&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=abhijithabhi01&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
-
 </div>
 
 ---
-
-<img align="right" src="https://raw.githubusercontent.com/abhijithabhi01/abhijithabhi01/main/assets/developer.gif" width="320" alt="Developer GIF" onerror="this.style.display='none'"/>
 
 ## 🧑‍💻 About Me
 
@@ -52,8 +42,6 @@ const abhijith = {
 };
 ```
 
-<br clear="right"/>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -66,11 +54,7 @@ const abhijith = {
 ### Databases & Cloud
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,gcp,git,github,postman,vscode&perline=9" />
 
-</div>
-
 <br/>
-
-<div align="center">
 
 | 🤖 AI / Agentic | ☁️ Cloud & DevOps | 🗄️ Databases |
 |:---:|:---:|:---:|
@@ -151,33 +135,6 @@ Full-stack MERN application connecting customers with home service workers. Supp
 </tr>
 </table>
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhijithabhi01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithabhi01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijithabhi01&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijithabhi01&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhijithabhi01&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8" />
 </div>
 
 ---
